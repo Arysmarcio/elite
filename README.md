@@ -4,5 +4,5 @@ O conjunto de dados é uma mina de ouro para desenvolvedores e editores que busc
 
 Perguntas como “Quais videogames mais vendidos de todos os tempos?” e “Quais plataformas são mais populares entre os gamers?” serão respondidas com o nosso conjunto de dados. 
 
-![Jogos Digitaris](https://images.unsplash.com/photo-1601153211050-ae2e1fa428d7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D){: style="border: 2px solid #000; border-radius: 10px; margin: 0 auto; display: block; max-width: 100%;"}
+![Jogos Digitais](https://images.unsplash.com/photo-1601153211050-ae2e1fa428d7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D){: style="border: 2px solid #000; border-radius: 10px; margin: 0 auto; display: block; max-width: 100%;"}
 
