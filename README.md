@@ -1,5 +1,8 @@
-👉O nosso projeto gira em torno da análise de mercado dos vídeos games e as suas diferenças entres regiões e plataformas, o nosso conjunto de dados tem como base fornecer informações sobre o número de unidades vendidas e a sua receita gerada ao redor do mundo e dos anos. 
-O conjunto de dados que estamos trabalhando é uma mina de ouro para desenvolvedores e editores que buscam se manter à frente em uma indústria altamente competitiva. Ao entender as preferências e comportamentos dos jogadores, 
-eles podem adaptar suas estratégias de marketing e desenvolvimento para melhor atender às demandas do mercado.  
-Perguntas como “Quais vídeo games mais vendido de todos os tempos? Quais plataformas são mais populares entre os games?”, serão respondia como o nosso conjunto de dados.👈
-![pexels-artempodrez-7773991](https://github.com/Arysmarcio/elite/assets/161548231/00787044-72ab-4d78-b813-3b4ef9204e7a)
+👉 O nosso projeto gira em torno da análise de mercado dos videogames e suas diferenças entre regiões e plataformas. O nosso conjunto de dados tem como base fornecer informações sobre o número de unidades vendidas e a receita gerada ao redor do mundo e ao longo dos anos.
+
+O conjunto de dados é uma mina de ouro para desenvolvedores e editores que buscam se manter à frente em uma indústria altamente competitiva. Ao entender as preferências e comportamentos dos jogadores, eles podem adaptar suas estratégias de marketing e desenvolvimento para melhor atender às demandas do mercado.
+
+Perguntas como “Quais videogames mais vendidos de todos os tempos?” e “Quais plataformas são mais populares entre os gamers?” serão respondidas com o nosso conjunto de dados. 
+
+![Jogos Digitaris](https://images.unsplash.com/photo-1601153211050-ae2e1fa428d7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
