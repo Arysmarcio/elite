@@ -1,3 +1,6 @@
+<h1 align="center"> Vendas de Video Game </h1>
+
+## 📁 Acesso ao projeto
 👉 O nosso projeto gira em torno da análise de mercado dos videogames e suas diferenças entre regiões e plataformas. O nosso conjunto de dados tem como base fornecer informações sobre o número de unidades vendidas e a receita gerada ao redor do mundo e ao longo dos anos.
 
 O conjunto de dados é uma mina de ouro para desenvolvedores e editores que buscam se manter à frente em uma indústria altamente competitiva. Ao entender as preferências e comportamentos dos jogadores, eles podem adaptar suas estratégias de marketing e desenvolvimento para melhor atender às demandas do mercado.
