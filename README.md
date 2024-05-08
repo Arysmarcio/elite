@@ -32,11 +32,10 @@ Perguntas como “Quais são os videogames mais vendidos de todos os tempos?” 
 
 ## 📝Modelo Logico e Conceitual
 
-![2e27fac3-2807-4f4e-9637-be7aaef959de](https://github.com/Arysmarcio/elite/assets/161548231/712d5d55-9071-47e6-a4fe-02a1d38144f5)
+![8c6118f9-ea09-43de-8ffa-41d3dcf9381f](https://github.com/Arysmarcio/elite/assets/161548231/af5ebe54-ec54-46a2-8439-af83b829899a)
 
 
-![WhatsApp Image 2024-05-07 at 19 39 00](https://github.com/Arysmarcio/elite/assets/161548231/e4920c71-1606-42b1-9360-5133d6127652)
-
+![WhatsApp Image 2024-05-07 at 23 17 42](https://github.com/Arysmarcio/elite/assets/161548231/ffef11a4-9475-452f-bcb9-ee8bbee1ed57)
 
 
 
