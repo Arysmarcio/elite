@@ -26,7 +26,6 @@ Perguntas como “Quais são os videogames mais vendidos de todos os tempos?” 
 - Mongodb
 - Mysql
 - Docker
-- Python 
 - BR Modelo
 </markdown>
 
@@ -38,4 +37,10 @@ Perguntas como “Quais são os videogames mais vendidos de todos os tempos?” 
 ![WhatsApp Image 2024-05-07 at 23 17 42](https://github.com/Arysmarcio/elite/assets/161548231/ffef11a4-9475-452f-bcb9-ee8bbee1ed57)
 
 
+## 🪙Banco de Dados
+
+![Captura de tela 2024-05-08 152951](https://github.com/Arysmarcio/elite/assets/161548231/39cd4460-1d4a-4ed3-9c0f-58e9109841ae)
+
+
+![Captura de tela 2024-05-08 153157](https://github.com/Arysmarcio/elite/assets/161548231/f104247c-bc33-417e-ac7c-95d8ce4af12e)
 
